@@ -13,7 +13,7 @@ import {
     import { BsGlobe } from "react-icons/bs";
 import { IconType } from 'react-icons';
 
-interface IconMap {
+interface iconMap {
     [key: string]: IconType;
 }
 
